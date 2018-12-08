@@ -2,5 +2,5 @@ env: "dev"
 vpc: "dev-ecs-workshop"
 alb: "mukesh-dev-alb"
 clusters:
-  - cluster_name: "asgard"
+  - cluster_name: "mukesh-dev-asgard"
     services: []
